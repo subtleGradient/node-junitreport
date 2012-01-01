@@ -1,10 +1,11 @@
 {
 	"name": "junitreport",
 	"files": [
-		"parse.js"
+		"parse.js",
+		"encode.js"
 	],
 
-	"version": "v0.1dev",
+	"version": "v0.2.0dev",
 	"description": "junitreport makes it easy to read and write junitreport xml files. Handy for Jenkins",
 	"keywords": ["junit","junitreport","xml","cli","jenkins","hudson"],
 
