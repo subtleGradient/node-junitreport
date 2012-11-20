@@ -4,19 +4,22 @@
 		"parse.js",
 		"encode.js"
 	],
-
 	"version": "0.2.0",
 	"description": "junitreport makes it easy to read and write junitreport xml files. Handy for Jenkins",
 	"keywords": ["junit","junitreport","xml","cli","jenkins","hudson"],
-
-	"engines": {"node": "~0.6.4"},
+	"engines": {
+		"node": "~0.6.4"
+	},
 	"dependencies": {
 		"optimist": "~0.3.0",
-		"sax": "~0.3.5",
+		"sax": "~0.3.5"
 	},
-
 	"author": "Thomas Aylott <oblivious+git@subtlegradient.com> (http://github.com/subtleGradient/)",
-
-	"repository": {"type": "git", "url": "http://github.com/subtleGradient/node-junitreport.git"},
-	"bugs": {"url": "http://github.com/subtleGradient/node-junitreport/issues"}
+	"repository": {
+		"type": "git", 
+		"url": "http://github.com/subtleGradient/node-junitreport.git"
+	},
+	"bugs": {
+		"url": "http://github.com/subtleGradient/node-junitreport/issues"
+	}
 }
