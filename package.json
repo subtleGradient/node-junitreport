@@ -5,7 +5,7 @@
 		"encode.js"
 	],
 
-	"version": "v0.2.0dev",
+	"version": "0.2.0",
 	"description": "junitreport makes it easy to read and write junitreport xml files. Handy for Jenkins",
 	"keywords": ["junit","junitreport","xml","cli","jenkins","hudson"],
 
