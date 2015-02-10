@@ -1,0 +1,19 @@
+{
+  "id": "node-junitreport",
+  "language": "js",
+  "ownership": [
+    {
+      "name": "Phillip Johnsen",
+      "email": "phillip.johnsen@finn.no"
+    }
+  ],
+  "artifacts": {
+    "artifact": [
+      {
+        "name": "node-junitreport",
+        "type": "library",
+        "description": "Library for creating junit reports with node.js"
+      }
+    ]
+  }
+}
